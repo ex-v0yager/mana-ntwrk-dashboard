@@ -1,0 +1,23 @@
+{
+  "name": "mana-ntwrk-dashboard",
+  "version": "1.0.0",
+  "description": "Monitor and manage your network's resources with a comprehensive dashboard, optimizing network performance.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ex-v0yager/mana-ntwrk-dashboard"
+  },
+  "author": "ex-v0yager",
+  "license": "MIT",
+  "dependencies": {
+    "mana-ntwrk-dashboard": "1.0.0",
+    "mana-ntwrk-db-sys": "1.0.0",
+    "fs-extra": "1.0.0",
+    "firebase": "1.0.0",
+    "body-parser": "1.0.0",
+    "web3-utils": "1.0.0"
+  }
+}
